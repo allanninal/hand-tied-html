@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#EDEFE7" />
+
+  <!-- Delphinium spike motif -->
+  <g transform="translate(950 90)" stroke="#241F2E" stroke-width="2" fill="none">
+    <path d="M0 0 L-14 420" />
+  </g>
+  <g transform="translate(950 90)" fill="#6E4FA3">
+    <circle cx="-2" cy="10" r="9" />
+    <circle cx="-8" cy="42" r="10" />
+    <circle cx="2" cy="74" r="10" />
+    <circle cx="-10" cy="108" r="11" />
+    <circle cx="0" cy="142" r="11" />
+    <circle cx="-11" cy="178" r="12" />
+    <circle cx="1" cy="214" r="12" />
+    <circle cx="-12" cy="252" r="13" />
+    <circle cx="0" cy="292" r="13" />
+  </g>
+  <g transform="translate(1050 130)" stroke="#241F2E" stroke-width="2" fill="none">
+    <path d="M0 0 L-10 340" />
+  </g>
+  <g transform="translate(1050 130)" fill="#9D86C4">
+    <circle cx="-1" cy="10" r="7" />
+    <circle cx="-6" cy="36" r="8" />
+    <circle cx="1" cy="62" r="8" />
+    <circle cx="-8" cy="90" r="9" />
+    <circle cx="0" cy="118" r="9" />
+    <circle cx="-9" cy="148" r="10" />
+    <circle cx="0" cy="180" r="10" />
+  </g>
+
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <text x="80" y="210" font-size="20" font-weight="700" letter-spacing="4" fill="#635E6B">FLORAL DESIGNER &amp; FLORIST</text>
+    <text x="80" y="280" font-size="54" font-style="italic" fill="#6E4FA3">Nakamura Floral Co.</text>
+    <text x="80" y="325" font-size="24" fill="#241F2E">Teresa Nakamura — Proctor District, Tacoma WA</text>
+  </g>
+  <g font-family="Arial, sans-serif">
+    <text x="80" y="390" font-size="19" fill="#241F2E">A vase-life tag's number is the total, not what's left — the countdown</text>
+    <text x="80" y="418" font-size="19" fill="#241F2E">starts at the farm, and a bouquet's price is a stem recipe, priced honestly.</text>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Nakamura Floral Co. monogram">
+  <rect width="64" height="64" rx="10" fill="#6E4FA3" />
+  <g fill="none" stroke="#EDEFE7" stroke-width="3.4" stroke-linecap="round">
+    <circle cx="32" cy="24" r="6" fill="#EDEFE7" stroke="none" />
+    <path d="M32 30 L32 48" />
+    <path d="M32 40 L22 46" />
+    <path d="M32 36 L42 41" />
+  </g>
+</svg>
